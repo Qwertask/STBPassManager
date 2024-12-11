@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Базовая тема приложения -->
+    <style name="Theme.Test" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Основные цвета -->
+        <item name="colorPrimary">#3498DB</item> <!-- Основной цвет -->
+        <item name="android:navigationBarColor">#2980B9</item>
+
+        <item name="android:statusBarColor">#2980B9</item><item name="colorPrimaryVariant">#2980B9</item> <!-- Более насыщенный основной цвет -->
+        <item name="colorSecondary">#2ECC71</item> <!-- Второстепенный цвет -->
+
+        <!-- Цвета текста -->
+        <item name="android:textColorPrimary">#333333</item> <!-- Основной текст -->
+        <item name="android:textColorSecondary">#555555</item> <!-- Второстепенный текст -->
+
+        <!-- Цвета фона -->
+        <!-- Цвет кнопок -->
+        <item name="colorButtonNormal">#3498DB</item>
+        <item name="colorOnPrimary">#FFFFFF</item> <!-- Текст на кнопках -->
+    </style>
+
+</resources>
